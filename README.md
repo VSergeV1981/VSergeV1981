@@ -27,7 +27,7 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 
 #### Belarus (Before 2015) | Industrial Automation & Computer Vision
 * **Computer Vision & Imaging:** Research and development of image processing, noise reduction, and Subpixel-precise object positioning algorithms using **C++** and **OpenCV**.
-* **Scientific Hardware & UI:** Designed graphic interfaces for automated industrial measurement systems, semiconductor die verification, and control software for **AFM / SFM microscopes**.
+* **Scientific Hardware & UI:** Designed graphic interfaces for automated industrial measurement systems, semiconductor die verification, and control software for **industrial microscopes**.
 * **Industrial Warehousing:** Engineered software solutions for industrial packaging and labeling systems, integrating **Zebra printers (ZPL)**, mobile data terminals (MDE), and raw **TCP/IP** communication protocols.
 
 ---
