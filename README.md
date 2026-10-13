@@ -1,4 +1,4 @@
-# Hi there! I'm Siarhei Vishneuski 👋
+# Hi there! I'm Siarhei Vishneuski 
 
 An **Experienced Software Engineer** with over 13 years of professional expertise. My career spans from building low-level industrial automation and computer vision algorithms to developing complex enterprise ERP systems and modern mobile and cloud-native web applications.
 
