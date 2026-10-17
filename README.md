@@ -13,7 +13,7 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 | **Mobile & Desktop** | WPF (XAML), WinForms, Xamarin (Android), MvvmCross, MFC, Infragistics |
 | **Databases** | MS SQL Server, PostgreSQL, SQLite |
 | **Architecture** | Clean Architecture, SOLID, Domain-Driven Design (DDD) |
-| **DevOps & Tools** | Git, Azure DevOps, TFS, Visual Studio, VS Code |
+| **DevOps & Tools** | Git, Azure DevOps, TFS, Visual Studio, VS Code, List&Label Combit, FastReport OpenSource |
 
 ---
 
