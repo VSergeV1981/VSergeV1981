@@ -8,7 +8,7 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend & Core** | C#, .NET, Web API, Minimal API, WCF, REST, C/C++ |
+| **Backend & Core** | C#/.NET, Web API, Minimal API, WCF, REST, C/C++ |
 | **Frontend & Web** | Angular, Blazor Server, TypeScript, JavaScript, HTML, CSS |
 | **Mobile & Desktop** | WPF (XAML), WinForms, Xamarin (Android), MvvmCross, MFC, Infragistics |
 | **Databases** | MS SQL Server, PostgreSQL, SQLite |
