@@ -39,6 +39,7 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 ---
 
 ### 🗣️ Languages
+* **English:** Basic knowledge
 * **German:** Full professional proficiency (Verhandlungssicher – over 10 years in German corporate tech).
 * **Belarusian / Russian:** Native.
 
