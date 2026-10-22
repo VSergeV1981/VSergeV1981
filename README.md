@@ -1,8 +1,6 @@
 # Hi there! I'm Siarhei Vishneuski 
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+![Typing SVG](https://demolab.com)
 
 
 An **Experienced Software Engineer** with over 13 years of professional expertise. My career spans from building low-level industrial automation and computer vision algorithms to developing complex enterprise ERP systems and modern mobile and cloud-native web applications.
@@ -11,12 +9,12 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 
 ### 🛠️ Tech Stack & Skills
 
-* 🌐 **Backend & Core:** <img src="https://shields.io" alt="C#" /> <img src="https://shields.io" alt=".NET" /> <img src="https://shields.io" alt="C++" /> • `Web API` • `Minimal API` • `WCF` • `REST`
-* 💻 **Frontend & Web:** <img src="https://shields.io" alt="Angular" /> <img src="https://shields.io" alt="Blazor" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" />
-* 🖥️ **Mobile & Desktop:** <img src="https://shields.io" alt="WPF" /> • `WinForms` • `Xamarin` • `MvvmCross` • `MFC` • `Infragistics`
-* 🗄️ **Databases:** <img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQLite" />
+* 🌐 **Backend & Core:** ![CSharp](https://shields.io) ![.NET](https://shields.io) ![C++](https://shields.io) • `Web API` • `Minimal API` • `WCF` • `REST`
+* 💻 **Frontend & Web:** ![Angular](https://shields.io) ![Blazor](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+* 🖥️ **Mobile & Desktop:** ![WPF](https://shields.io) • `WinForms` • `Xamarin` • `MvvmCross` • `MFC` • `Infragistics`
+* 🗄️ **Databases:** ![SQL Server](https://shields.io) ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io)
 * 📐 **Architecture:** `Clean Architecture` • `SOLID` • `Domain-Driven Design (DDD)`
-* ⚙️ **DevOps & Tools:** <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Azure DevOps" /> <img src="https://shields.io" alt="GitHub Actions" /> • `TFS` • `Visual Studio` • `VS Code`
+* ⚙️ **DevOps & Tools:** ![Git](https://shields.io) ![Azure DevOps](https://shields.io) ![GitHub Actions](https://shields.io) • `TFS` • `Visual Studio` • `VS Code`
 
 ---
 
