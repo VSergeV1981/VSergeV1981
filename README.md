@@ -62,18 +62,6 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 `Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS`
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VSergeV1981&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Siarhei's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSergeV1981&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
-
-</div>
-
-> **Note:** These cards are provided by a third-party service. If they stop loading, the service may be temporarily unavailable or rate-limited; the rest of this README will still display normally.
 
 ---
 
