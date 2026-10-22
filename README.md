@@ -61,7 +61,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![Visual Studio](https://shields.io)
 ![VS Code](https://shields.io)
 
-`Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS`
+`Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS` 
 
 ---
 
