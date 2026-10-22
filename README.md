@@ -27,37 +27,39 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ## 🛠️ Tech Stack & Skills
 
 ### Backend & Core
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![C#](https://shields.io)
+![.NET Core](https://shields.io)
+![ASP.NET Core](https://shields.io)
+![EF Core](https://shields.io)
+![C++](https://shields.io)
+![REST API](https://shields.io)
 
-`Web API` · `Minimal API` · `WCF` · `REST`
+`Web API` · `Minimal API` · `WCF` · `REST` · `C/C++`
 
 ### Frontend & Web
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://shields.io)
+![Blazor](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
 
 ### Desktop & Mobile
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![WPF](https://shields.io)
+![WinForms](https://shields.io)
+![Xamarin](https://shields.io)
 
 `MvvmCross` · `MFC` · `Infragistics`
 
 ### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://shields.io)
+![SQL Server](https://shields.io)
+![SQLite](https://shields.io)
 
 ### Architecture, DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://shields.io)
+![Azure DevOps](https://shields.io)
+![GitHub Actions](https://shields.io)
+![Visual Studio](https://shields.io)
+![VS Code](https://shields.io)
 
 `Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS`
 
