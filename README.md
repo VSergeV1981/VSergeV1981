@@ -6,14 +6,14 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Core** | C#/.NET, Web API, Minimal API, WCF, REST, C/C++ |
-| **Frontend & Web** | Angular, Blazor Server, TypeScript, JavaScript, HTML, CSS |
-| **Mobile & Desktop** | WPF (XAML), WinForms, Xamarin (Android), MvvmCross, MFC, Infragistics |
-| **Databases** | MS SQL Server, PostgreSQL, SQLite |
-| **Architecture** | Clean Architecture, SOLID, Domain-Driven Design (DDD) |
-| **DevOps & Tools** | Git, Azure DevOps, TFS, Visual Studio, VS Code, List&Label Combit, FastReport OpenSource |
+| **Backend & Core** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) `Web API` `Minimal API` `WCF` `REST` |
+| **Frontend & Web** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
+| **Mobile & Desktop** | ![](https://shields.io) `WinForms` `Xamarin` `MvvmCross` `MFC` `Infragistics` |
+| **Databases** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
+| **Architecture** | `Clean Architecture` `SOLID Principles` `Domain-Driven Design (DDD)` |
+| **DevOps & Tools** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) `TFS` `Visual Studio` `VS Code` |
 
 ---
 
