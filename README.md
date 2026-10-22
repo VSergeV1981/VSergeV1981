@@ -51,7 +51,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![Xamarin](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white).
 ![MFC](https://img.shields.io/badge/MFC-FFB6D4?style=for-the-badge&logo=mfc&logoColor=black)
 
-`MvvmCross` · `MFC` · `Infragistics`
+`MvvmCross` · `Infragistics`
 
 ### Databases
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
