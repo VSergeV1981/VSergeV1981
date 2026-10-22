@@ -65,22 +65,18 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 
 ---
 
-## 🚀 Professional Timeline & Experience
+### 🚀 Professional Timeline & Experience
 
-### 🇩🇪 Germany · 2015–Present
-**Enterprise, Web & Mobile Development**
+#### Germany (2015 – Present) | Enterprise, Web & Mobile Development
+* **ERP Core Architecture:** Spent over a decade engineering core modules (Master Data, Accounting, Production Control, Time Tracking) for leading German mid-market software providers.
+* **Desktop & Mobile Engineering:** Maintained and modernised rich client software using **WPF**, **WinForms**, **C#**, **Xamarin**, and **MvvmCross**.
+* **Financial & Logistics Integrations:** Built secure compliance interfaces and payment exports for **DATEV**, **ELSTER (USTIVA)**, **SEPA**, and modern logistics services like **ShipCloud, DHL, and Kühne + Nagel**.
+* **Web & Cloud Evolution:** Migrated desktop legacy workflows into modern ecosystems using **Angular**, **Blazor Server**, **Web API**, and **Minimal API**.
 
-- **ERP Core Architecture:** Spent over a decade engineering core modules such as Master Data, Accounting, Production Control and Time Tracking for German mid-market software providers.
-- **Desktop & Mobile Engineering:** Maintained and modernised rich-client software using **WPF, WinForms, C#, Xamarin and MvvmCross**.
-- **Financial & Logistics Integrations:** Built compliance interfaces and payment exports for **DATEV, ELSTER (USTIVA), SEPA**, and logistics services including **ShipCloud, DHL and Kühne + Nagel**.
-- **Web & Cloud Evolution:** Modernised legacy desktop workflows using **Angular, Blazor Server, Web API and Minimal API**.
-
-### 🇧🇾 Belarus · Before 2015
-**Industrial Automation & Computer Vision**
-
-- **Computer Vision & Imaging:** Developed image-processing, noise-reduction and subpixel-precision object-positioning algorithms using **C++ and OpenCV**.
-- **Scientific Hardware & UI:** Designed graphical interfaces for automated industrial measurement systems, semiconductor die verification and industrial microscope control software.
-- **Industrial Warehousing:** Built software for industrial packaging and labelling systems, integrating **Zebra printers (ZPL)**, mobile data terminals (MDE) and raw **TCP/IP** communication.
+#### Belarus (Before 2015) | Industrial Automation & Computer Vision
+* **Computer Vision & Imaging:** Research and development of image processing, noise reduction, and Subpixel-precise object positioning algorithms using **C++** and **OpenCV**.
+* **Scientific Hardware & UI:** Designed graphic interfaces for automated industrial measurement systems, semiconductor die verification, and control software for **industrial microscopes**.
+* **Industrial Warehousing:** Engineered software solutions for industrial packaging and labeling systems, integrating **Zebra printers (ZPL)**, mobile data terminals (MDE), and raw **TCP/IP** communication protocols.
 
 ---
 
