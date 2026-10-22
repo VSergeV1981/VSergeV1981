@@ -10,54 +10,18 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 ---
 
 ### 🛠️ Tech Stack & Skills
-
-🔷 **Backend & Core**
-<p align="left">
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt=".NET" />
-  <img src="https://shields.io" alt="C++" />
-</p>
-`Web API` • `Minimal API` • `WCF` • `REST` • `C/C++`
-
-🔷 **Frontend & Web**
-<p align="left">
-  <img src="https://shields.io" alt="Angular" />
-  <img src="https://shields.io" alt="Blazor" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
-
-🔷 **Mobile & Desktop**
-<p align="left">
-  <img src="https://shields.io" alt="WPF" />
-</p>
-`WinForms` • `Xamarin (Android)` • `MvvmCross` • `MFC` • `Infragistics`
-
-🔷 **Databases & Architecture**
-<p align="left">
-  <img src="https://shields.io" alt="SQL Server" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="SQLite" />
-</p>
-`Clean Architecture` • `SOLID` • `Domain-Driven Design (DDD)`
-
-🔷 **DevOps & Tools**
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Azure DevOps" />
-  <img src="https://shields.io" alt="GitHub Actions" />
-</p>
-`TFS` • `Visual Studio` • `VS Code` • `List&Label Combit` • `FastReport OpenSource`
+* 🌐 **Backend & Core:** C#, .NET 9, C++, Web API, Minimal API, REST, WCF
+* 💻 **Frontend & Web:** Angular, Blazor, TypeScript, JavaScript, HTML5, CSS3
+* 🖥️ **Mobile & Desktop:** WPF, WinForms, Xamarin (Android), MvvmCross, MFC
+* 🗄️ **Databases & Architecture:** SQL Server, PostgreSQL, SQLite, Clean Architecture, DDD
+* ⚙️ **DevOps & Tools:** Git, Azure DevOps, GitHub Actions, Visual Studio, VS Code
 
 ---
 
 ### 📊 GitHub Analytics & Performance
-<p align="left">
-  <img src="https://vercel.app" alt="Siarhei's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+
+![Siarhei's GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
 
 ---
 
