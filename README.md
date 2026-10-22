@@ -43,6 +43,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=css&logoColor=black)
+![MFC](https://img.shields.io/badge/MFC-FFB6D4?style=for-the-badge&logo=mfc&logoColor=black)
 
 ### Desktop & Mobile
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
