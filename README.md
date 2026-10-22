@@ -48,7 +48,8 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![MFC](https://img.shields.io/badge/MVVM%20CROSS-24B780?style=for-the-badge&logo=mwwmcross&logoColor=black)
+![MWWMCROSS](https://img.shields.io/badge/MVVM%20CROSS-24B780?style=for-the-badge&logo=mwwmcross&logoColor=black)
+![MFC](https://img.shields.io/badge/MFC-FFB6D4?style=for-the-badge&logo=mfc&logoColor=black)
 ![InfragisticsWPF](https://img.shields.io/badge/Infragistics%20WPF-0099FF?style=for-the-badge&logo=mfc&logoColor=white)
 
 ### Databases
