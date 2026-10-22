@@ -10,11 +10,13 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 ---
 
 ### 🛠️ Tech Stack & Skills
-* 🌐 **Backend & Core:** C#, .NET 9, C++, Web API, Minimal API, REST, WCF
-* 💻 **Frontend & Web:** Angular, Blazor, TypeScript, JavaScript, HTML5, CSS3
-* 🖥️ **Mobile & Desktop:** WPF, WinForms, Xamarin (Android), MvvmCross, MFC
-* 🗄️ **Databases & Architecture:** SQL Server, PostgreSQL, SQLite, Clean Architecture, DDD
-* ⚙️ **DevOps & Tools:** Git, Azure DevOps, GitHub Actions, Visual Studio, VS Code
+
+* 🌐 **Backend & Core:** <img src="https://shields.io" alt="C#" /> <img src="https://shields.io" alt=".NET" /> <img src="https://shields.io" alt="C++" /> • `Web API` • `Minimal API` • `WCF` • `REST`
+* 💻 **Frontend & Web:** <img src="https://shields.io" alt="Angular" /> <img src="https://shields.io" alt="Blazor" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" />
+* 🖥️ **Mobile & Desktop:** <img src="https://shields.io" alt="WPF" /> • `WinForms` • `Xamarin` • `MvvmCross` • `MFC` • `Infragistics`
+* 🗄️ **Databases:** <img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQLite" />
+* 📐 **Architecture:** `Clean Architecture` • `SOLID` • `Domain-Driven Design (DDD)`
+* ⚙️ **DevOps & Tools:** <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Azure DevOps" /> <img src="https://shields.io" alt="GitHub Actions" /> • `TFS` • `Visual Studio` • `VS Code`
 
 ---
 
