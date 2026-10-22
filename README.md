@@ -41,6 +41,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Desktop & Mobile
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
@@ -48,7 +49,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white).
 
-`MvvmCross` · `MFC` · `Infragistics` · `OpenCV`
+`MvvmCross` · `MFC` · `Infragistics`
 
 ### Databases
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
