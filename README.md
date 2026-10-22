@@ -1,5 +1,10 @@
 # Hi there! I'm Siarhei Vishneuski 
 
+<p align="left">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
+
+
 An **Experienced Software Engineer** with over 13 years of professional expertise. My career spans from building low-level industrial automation and computer vision algorithms to developing complex enterprise ERP systems and modern mobile and cloud-native web applications.
 
 ---
