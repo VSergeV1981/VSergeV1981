@@ -6,14 +6,32 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | C#/.NET, Web API, Minimal API, WCF, REST, C/C++ |
-| **Frontend & Web** | Angular, Blazor Server, TypeScript, JavaScript, HTML, CSS |
-| **Mobile & Desktop** | WPF (XAML), WinForms, Xamarin (Android), MvvmCross, MFC, Infragistics |
-| **Databases** | MS SQL Server, PostgreSQL, SQLite |
-| **Architecture** | Clean Architecture, SOLID, Domain-Driven Design (DDD) |
-| **DevOps & Tools** | Git, Azure DevOps, TFS, Visual Studio, VS Code, List&Label Combit, FastReport OpenSource |
+🔹 **Backend & Core**
+* ![C#](https://shields.io) ![.NET](https://shields.io) ![C++](https://shields.io)
+* `Web API` • `Minimal API` • `WCF` • `REST` • `C/C++`
+
+🔹 **Frontend & Web**
+* ![Angular](https://shields.io) ![Blazor](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+
+🔹 **Mobile & Desktop**
+* ![WPF](https://shields.io)
+* `WinForms` • `Xamarin (Android)` • `MvvmCross` • `MFC` • `Infragistics`
+
+🔹 **Databases & Architecture**
+* ![SQL Server](https://shields.io) ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io)
+* `Clean Architecture` • `SOLID` • `Domain-Driven Design (DDD)`
+
+🔹 **DevOps & Tools**
+* ![Git](https://shields.io) ![Azure DevOps](https://shields.io) ![GitHub Actions](https://shields.io)
+* `TFS` • `Visual Studio` • `VS Code` • `List&Label Combit` • `FastReport OpenSource`
+
+---
+
+### 📊 GitHub Analytics & Performance
+<p align="left">
+  <img src="https://vercel.app" alt="Siarhei's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
