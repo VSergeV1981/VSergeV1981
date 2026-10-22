@@ -50,9 +50,9 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 `MvvmCross` · `MFC` · `Infragistics`
 
 ### Databases
-![PostgreSQL](https://shields.io)
-![SQL Server](https://shields.io)
 ![SQLite](https://shields.io)
+![SQL Server](https://shields.io)
+![PostgreSQL](https://shields.io)
 
 ### Architecture, DevOps & Tools
 ![Git](https://shields.io)
@@ -61,7 +61,8 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![Visual Studio](https://shields.io)
 ![VS Code](https://shields.io)
 
-`Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS` 
+`Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS`
+
 
 ---
 
