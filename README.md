@@ -63,7 +63,6 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 
 `Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS`
 
-
 ---
 
 ## 📊 GitHub Analytics
