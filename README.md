@@ -11,24 +11,45 @@ An **Experienced Software Engineer** with over 13 years of professional expertis
 
 ### 🛠️ Tech Stack & Skills
 
-🔹 **Backend & Core**
-* ![C#](https://shields.io) ![.NET](https://shields.io) ![C++](https://shields.io)
-* `Web API` • `Minimal API` • `WCF` • `REST` • `C/C++`
+🔷 **Backend & Core**
+<p align="left">
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt=".NET" />
+  <img src="https://shields.io" alt="C++" />
+</p>
+`Web API` • `Minimal API` • `WCF` • `REST` • `C/C++`
 
-🔹 **Frontend & Web**
-* ![Angular](https://shields.io) ![Blazor](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+🔷 **Frontend & Web**
+<p align="left">
+  <img src="https://shields.io" alt="Angular" />
+  <img src="https://shields.io" alt="Blazor" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
 
-🔹 **Mobile & Desktop**
-* ![WPF](https://shields.io)
-* `WinForms` • `Xamarin (Android)` • `MvvmCross` • `MFC` • `Infragistics`
+🔷 **Mobile & Desktop**
+<p align="left">
+  <img src="https://shields.io" alt="WPF" />
+</p>
+`WinForms` • `Xamarin (Android)` • `MvvmCross` • `MFC` • `Infragistics`
 
-🔹 **Databases & Architecture**
-* ![SQL Server](https://shields.io) ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io)
-* `Clean Architecture` • `SOLID` • `Domain-Driven Design (DDD)`
+🔷 **Databases & Architecture**
+<p align="left">
+  <img src="https://shields.io" alt="SQL Server" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="SQLite" />
+</p>
+`Clean Architecture` • `SOLID` • `Domain-Driven Design (DDD)`
 
-🔹 **DevOps & Tools**
-* ![Git](https://shields.io) ![Azure DevOps](https://shields.io) ![GitHub Actions](https://shields.io)
-* `TFS` • `Visual Studio` • `VS Code` • `List&Label Combit` • `FastReport OpenSource`
+🔷 **DevOps & Tools**
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Azure DevOps" />
+  <img src="https://shields.io" alt="GitHub Actions" />
+</p>
+`TFS` • `Visual Studio` • `VS Code` • `List&Label Combit` • `FastReport OpenSource`
 
 ---
 
