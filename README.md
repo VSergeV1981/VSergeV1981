@@ -118,6 +118,8 @@ Belarusian State University of Informatics and Radioelectronics
 *Thanks for visiting my profile!*
 
 </div>
+<!--
+
 
 ---
 
@@ -138,6 +140,6 @@ Belarusian State University of Informatics and Radioelectronics
 </div>
 
 ---
-
+-->
 [![GitHub followers](https://img.shields.io/github/followers/VSergeV1981?label=Followers&style=for-the-badge&logo=github)](https://github.com/VSergeV1981)
 [![GitHub profile views](https://komarev.com/ghpvc/?username=VSergeV1981&style=for-the-badge&color=blue)](https://github.com/VSergeV1981)
