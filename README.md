@@ -109,21 +109,6 @@ Belarusian State University of Informatics and Radioelectronics
 
 ---
 
-## 📬 Contact
-
-- **Email:** [VSergV1981@googlemail.com](mailto:VSergV1981@googlemail.com)
-- **GitHub:** [@VSergeV1981](https://github.com/VSergeV1981)
-
-<div align="center">
-
-*Thanks for visiting my profile!*
-
-</div>
-
-
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -142,3 +127,15 @@ Belarusian State University of Informatics and Radioelectronics
 
 ---
 
+## 📬 Contact
+
+- **Email:** [VSergV1981@googlemail.com](mailto:VSergV1981@googlemail.com)
+- **GitHub:** [@VSergeV1981](https://github.com/VSergeV1981)
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile!*
+
+</div>
