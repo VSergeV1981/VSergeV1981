@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=13%2B+years+of+software+engineering;Enterprise+ERP+and+business+systems;Desktop%2C+web+and+mobile+development;Industrial+automation+and+computer+vision)](https://git.io/typing-svg)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VSergeV1981)
 [![Email](https://img.shields.io/badge/E--Mail-1B3764?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VSergV1981@googlemail.com)
 [![Location](https://img.shields.io/badge/Müllheim_im_Markgräflerland-DE-1B3764?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
