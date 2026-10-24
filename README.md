@@ -57,7 +57,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 ![InfragisticsWPF](https://img.shields.io/badge/Infragistics%20WPF-0099FF?style=for-the-badge&logo=mfc&logoColor=white)
 
 ### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
