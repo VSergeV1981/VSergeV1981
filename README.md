@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VSergeV1981)
 [![Email](https://img.shields.io/badge/E--Mail-1B3764?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VSergV1981@googlemail.com)
 [![Location](https://img.shields.io/badge/Müllheim_im_Markgräflerland-DE-1B3764?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1B3764&color=1B3764)](#)
+[![GitHub followers](https://img.shields.io/github/followers/VSergeV1981?label=Followers&style=for-the-badge&logo=github)](https://github.com/VSergeV1981)
+<!--[![GitHub profile views](https://komarev.com/ghpvc/?username=VSergeV1981&style=for-the-badge&color=blue)](https://github.com/VSergeV1981)-->
 
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,javascript,css,sqlite,postgresql,cpp,opencv,azure,git,github&theme=dark" alt="Tech Stack Icons" />
@@ -140,5 +142,3 @@ Belarusian State University of Informatics and Radioelectronics
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/VSergeV1981?label=Followers&style=for-the-badge&logo=github)](https://github.com/VSergeV1981)
-[![GitHub profile views](https://komarev.com/ghpvc/?username=VSergeV1981&style=for-the-badge&color=blue)](https://github.com/VSergeV1981)
