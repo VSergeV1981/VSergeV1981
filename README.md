@@ -117,13 +117,13 @@ Belarusian State University of Informatics and Radioelectronics
 *Thanks for visiting my profile!*
 
 </div>
-<!--
+
 
 
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vsergev1981&show_icons=true&theme=github_light&hide_border=true&bg_color=0d1117&title_color=1B3764&icon_color=1B3764&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
@@ -131,14 +131,14 @@ Belarusian State University of Informatics and Radioelectronics
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsergev1981&layout=compact&theme=github_light&hide_border=true&bg_color=0d1117&title_color=1B3764&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 </div>
-
+-->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vsergev1981&theme=github-light-blue&hide_border=true&background=0d1117&ring=1B3764&fire=DD0031&currStreakLabel=1B3764&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vsergev1981&theme=github-light-blue&hide_border=true&background=1B3480&ring=FFD700&fire=FF0801&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&sideNums=FFD700&currStreakNum=FFD700)](https://git.io/streak-stats)
 
 </div>
 
 ---
--->
+
 [![GitHub followers](https://img.shields.io/github/followers/VSergeV1981?label=Followers&style=for-the-badge&logo=github)](https://github.com/VSergeV1981)
 [![GitHub profile views](https://komarev.com/ghpvc/?username=VSergeV1981&style=for-the-badge&color=blue)](https://github.com/VSergeV1981)
