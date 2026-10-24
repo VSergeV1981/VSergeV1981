@@ -71,8 +71,7 @@ I'm an **Experienced Software Engineer** with **13+ years of professional experi
 `Clean Architecture` · `SOLID` · `Domain-Driven Design (DDD)` · `TFS`
 
 ### Computer Vision
-
-![Xamarin](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white).
+![Xamarin](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white).
 
 ---
 
