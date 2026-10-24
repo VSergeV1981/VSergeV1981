@@ -6,8 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=13%2B+years+of+software+engineering;Enterprise+ERP+and+business+systems;Desktop%2C+web+and+mobile+development;Industrial+automation+and+computer+vision)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/VSergeV1981?label=Followers&style=for-the-badge&logo=github)](https://github.com/VSergeV1981)
-[![GitHub profile views](https://komarev.com/ghpvc/?username=VSergeV1981&style=for-the-badge&color=blue)](https://github.com/VSergeV1981)
+[![Email](https://img.shields.io/badge/E--Mail-1B3764?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VSergV1981@googlemail.com)
+[![Location](https://img.shields.io/badge/Müllheim_im_Markgräflerland-DE-1B3764?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,javascript,css,sqlite,postgresql,cpp,opencv,azure,git,github&theme=dark" alt="Tech Stack Icons" />
 
@@ -116,3 +117,6 @@ Belarusian State University of Informatics and Radioelectronics
 *Thanks for visiting my profile!*
 
 </div>
+
+[![GitHub followers](https://img.shields.io/github/followers/VSergeV1981?label=Followers&style=for-the-badge&logo=github)](https://github.com/VSergeV1981)
+[![GitHub profile views](https://komarev.com/ghpvc/?username=VSergeV1981&style=for-the-badge&color=blue)](https://github.com/VSergeV1981)
