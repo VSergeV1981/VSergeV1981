@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VSergeV1981)
 [![Email](https://img.shields.io/badge/E--Mail-1B3764?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VSergV1981@googlemail.com)
-[![Location](https://img.shields.io/badge/Müllheim_im_Markgräflerland-DE-1B3764?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Müllheim_im_Markgräflerland-DE-1B3764?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1B3764&color=1B3764)](#)
 
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,javascript,css,sqlite,postgresql,cpp,opencv,azure,git,github&theme=dark" alt="Tech Stack Icons" />
