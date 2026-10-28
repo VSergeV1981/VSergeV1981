@@ -113,10 +113,13 @@ Belarusian State University of Informatics and Radioelectronics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VSergeV1981&show_icons=true&theme=github_dark&hide_border=true&bg_color=1B3480&title_color=1B3764&icon_color=1B3764&text_color=FFD700&rank_icon=github" />
-<!--
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSergV1981&layout=compact&theme=github_dark&hide_border=true&bg_color=1B3480&title_color=FFD700&text_color=FFD700&langs_count=8" />
--->
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=VSergeV1981&show_icons=true&theme=github_dark&hide_border=true&bg_color=1B3480&title_color=1B3764&icon_color=1B3764&text_color=FFD700&rank_icon=github" />
+<!-- <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VSergeV1981&layout=compact&theme=github_dark&hide_border=true&bg_color=1B3480&title_color=FFD700&text_color=FFD700&langs_count=8" />-->
+
+</div>
+
 </div>
 
 <div align="center">
