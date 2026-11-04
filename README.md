@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Siarhei Vishneuski 👋
+# Hi there! I'm Siarhei Vishneuski
 
 ### Experienced Software Engineer · C# / .NET · Enterprise, Web & Mobile
 
