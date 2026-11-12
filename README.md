@@ -127,6 +127,11 @@ Belarusian State University of Informatics and Radioelectronics
 [![GitHub Streak](https://streak-stats.demolab.com?user=vsergev1981&theme=github-light-blue&hide_border=true&background=1B3480&ring=FFD700&fire=BA0801&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&sideNums=FFD700&currStreakNum=FFD700)](https://git.io/streak-stats)
 
 </div>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vsergev1981&color=1B3764&style=flat-square&label=Profilbesucher" alt="Profile views" />
+</div>
 
 ---
 
@@ -134,12 +139,6 @@ Belarusian State University of Informatics and Radioelectronics
 
 - **Email:** [VSergV1981@googlemail.com](mailto:VSergV1981@googlemail.com)
 - **GitHub:** [@VSergeV1981](https://github.com/VSergeV1981)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vsergev1981&color=1B3764&style=flat-square&label=Profilbesucher" alt="Profile views" />
-</div>
 
 ---
 
