@@ -138,6 +138,12 @@ Belarusian State University of Informatics and Radioelectronics
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vsergev1981&color=1B3764&style=flat-square&label=Profilbesucher" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
 
 *Thanks for visiting my profile!*
 
